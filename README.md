@@ -4,6 +4,6 @@ This repository provides a R package for people who wonder how the phase problem
 A R wrapper of the 3D FFTW function is included following the style of the fftwtools package, which covered only 1D and 2D fftw functions. The FFTW library should be properly installed in your system.
 
 An example to run the program:
-  x <- load.xps("~/xps/data/1ejg-sf.cif")
+  x <- load.xps("~/xps/data/1ejg-sf.cif"); 
   rho <- solve.xps(x, 100, 680)
   
