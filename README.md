@@ -1,2 +1,2 @@
 # xps
-An basic iterative solution to the Phase Problem in X-ray Crystallography
+This repository provides a R package for people who are interested in solving x-ray crystal structures. It is a much simplified version of my C++ package sxMatrix (Acta Cryst. A68, 298-300 (2012)), but enough to start with. Play with it and extended it in your own way, you may be able to complete the century-old challenge (http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1962/perspectives.html).
